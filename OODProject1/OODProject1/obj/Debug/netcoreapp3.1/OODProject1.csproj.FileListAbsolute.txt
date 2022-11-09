@@ -1,0 +1,11 @@
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\bin\Debug\netcoreapp3.1\OODProject1.exe
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\bin\Debug\netcoreapp3.1\OODProject1.deps.json
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\bin\Debug\netcoreapp3.1\OODProject1.runtimeconfig.json
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\bin\Debug\netcoreapp3.1\OODProject1.runtimeconfig.dev.json
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\bin\Debug\netcoreapp3.1\OODProject1.dll
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\bin\Debug\netcoreapp3.1\OODProject1.pdb
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\obj\Debug\netcoreapp3.1\OODProject1.csprojAssemblyReference.cache
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\obj\Debug\netcoreapp3.1\OODProject1.AssemblyInfoInputs.cache
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\obj\Debug\netcoreapp3.1\OODProject1.AssemblyInfo.cs
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\obj\Debug\netcoreapp3.1\OODProject1.dll
+Q:\Users\obando_rodrigo\source\repos\OODProject1\OODProject1\obj\Debug\netcoreapp3.1\OODProject1.pdb

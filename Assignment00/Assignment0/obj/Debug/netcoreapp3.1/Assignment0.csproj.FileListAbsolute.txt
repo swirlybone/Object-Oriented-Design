@@ -1,0 +1,11 @@
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\bin\Debug\netcoreapp3.1\Assignment0.exe
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\bin\Debug\netcoreapp3.1\Assignment0.deps.json
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\bin\Debug\netcoreapp3.1\Assignment0.runtimeconfig.json
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\bin\Debug\netcoreapp3.1\Assignment0.runtimeconfig.dev.json
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\bin\Debug\netcoreapp3.1\Assignment0.dll
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\bin\Debug\netcoreapp3.1\Assignment0.pdb
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\obj\Debug\netcoreapp3.1\Assignment0.csprojAssemblyReference.cache
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\obj\Debug\netcoreapp3.1\Assignment0.AssemblyInfoInputs.cache
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\obj\Debug\netcoreapp3.1\Assignment0.AssemblyInfo.cs
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\obj\Debug\netcoreapp3.1\Assignment0.dll
+C:\Users\MemeTrey\Desktop\Assignment0\Assignment0\obj\Debug\netcoreapp3.1\Assignment0.pdb
